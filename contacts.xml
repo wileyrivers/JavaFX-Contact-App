@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Bob</first_name>
+	<last_name>Lazar</last_name>
+	<phone_number>4444444444</phone_number>
+	<notes>zip zop zuey</notes>
+</contact>
+<contact>
+	<first_name>Wiley</first_name>
+	<last_name>Bierman</last_name>
+	<phone_number>555-LOVE</phone_number>
+	<notes>---</notes>
+</contact>
+<contact>
+	<first_name>Angela</first_name>
+	<last_name>Carter</last_name>
+	<phone_number>704-555-9456</phone_number>
+	<notes>birthday sept 27</notes>
+</contact>
+</contacts>
